@@ -18,6 +18,7 @@ Nesse exercício fiz uma validação de formulário em 3 etapas contento: dados 
 
 - HTML
 - CSS
+- JavaScript
 - Git
 - GitHub
 
